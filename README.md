@@ -12,4 +12,9 @@ Coming soon! I'm working on my first AI project.
 ## Blog
 Publishinhg shortly, I am active on LinkedIn. Connect with me: https://www.linkedin.com/in/vt0812/
 
+## Projects
+
+### 1. Humming AI- Custom AI News Assistant
+
+**Problem**: AI is growing at high dynamic space which makes it very hard to keep us upadted with whats happening in the world. This is personalized AI assistant to help keeping upto date with flashcards and short snippets. 
 
