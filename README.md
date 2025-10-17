@@ -1,4 +1,4 @@
-# My AI Learning Portfolio
+# AI Learning Portfolio
 
 Hi! I'm Tejaswi and I'm learning to build AI and its real-time applications.
 
