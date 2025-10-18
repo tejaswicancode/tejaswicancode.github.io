@@ -22,4 +22,4 @@ Publishing shortly, I am active on LinkedIn. Connect with me: https://www.linked
 
 **Demo**: Just with a tap in suggestion a user can view multiple news as flashcards for easy-view. Just like this: <img width="1597" height="922" alt="image" src="https://github.com/user-attachments/assets/6a1c8003-2208-48f9-b4c0-b333ae983cd0" />
 
-**What did I learn?**: A routine human habit like reading news daily can be simplified using AI. A user can not only choose their own topic of interest and get a refined authenticated news from reputed media houses. I would like you to use "Humming AI" every morning to stay ahead. <https://chatgpt.com/share/68f3f01b-47dc-8009-be81-55587f4d22b5 /> 
+**What did I learn?**: A routine human habit like reading news daily can be simplified using AI. A user can not only choose their own topic of interest and get a refined authenticated news from reputed media houses. I would like you to use "Humming AI" every morning to stay ahead. <https://chatgpt.com/share/68f3f01b-47dc-8009-be81-55587f4d22b5> 
