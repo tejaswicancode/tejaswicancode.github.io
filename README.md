@@ -1,4 +1,3 @@
-<img width="1024" height="1024" alt="ChatGPT Image Oct 18, 2025, 04_11_06 PM" src="https://github.com/user-attachments/assets/7255f694-f127-4f2f-b2f1-5f7d9c9457ad" />
 # AI Learning Portfolio
 
 Hi! I'm Tejaswi and I'm learning to build AI and its real-time applications.
