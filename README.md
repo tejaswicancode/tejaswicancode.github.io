@@ -24,7 +24,7 @@ Publishing shortly, I am active on LinkedIn. Connect with me: https://www.linked
 
 **What did I learn?**: A routine human habit like reading news daily can be simplified using AI. A user can not only choose their own topic of interest and get a refined authenticated news from reputed media houses. I would like you to use "Humming AI" every morning to stay ahead. <https://chatgpt.com/g/g-68cc793b88648191a6ba401411908512-humming-ai>
 
-<https://chatgpt.com/backend-api/estuary/content?id=file_00000000fd486208a0f044a27a793db1&ts=489116&p=fs&cid=1&sig=69726db0865ce27dafb5d4ae67839bdd47f7913264862e19c986556958b141c5&v=0>
+<img width="1024" height="1024" alt="ChatGPT Image Oct 18, 2025, 04_11_06 PM" src="https://github.com/user-attachments/assets/db4df2b2-21df-4e0e-9d82-24c8022e2eb3" />
 
 **HummingAI**: Humming AI is a sovereign, unbiased AI news anchor designed to deliver global updates in technology, AI, finance, and business. Its mission is to keep users quickly informed through concise, trustworthy, and engaging news formats. Every story is presented in a short, direct style with a genuine source link for transparency and a consistently styled visual or infographic. Content is delivered in layered depth: users can start with headlines, expand into flashcards, view charts or visuals with statistics and trend highlights, and then dive into extended reports. Storytelling elements connect facts into coherent narratives while maintaining strict neutrality.
 
