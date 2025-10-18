@@ -10,7 +10,7 @@ Sarting 2023, I have been curious in reading about AI use cases and problem stat
 Coming soon! I'm working on my first AI project.
 
 ## Blog
-Publishinhg shortly, I am active on LinkedIn. Connect with me: https://www.linkedin.com/in/vt0812/
+Publishing shortly, I am active on LinkedIn. Connect with me: https://www.linkedin.com/in/vt0812/
 
 ## Projects
 
