@@ -16,5 +16,10 @@ Publishinhg shortly, I am active on LinkedIn. Connect with me: https://www.linke
 
 ### 1. Humming AI- Custom AI News Assistant
 
-**Problem**: AI is growing at high dynamic space which makes it very hard to keep us upadted with whats happening in the world. This is personalized AI assistant to help keeping upto date with flashcards and short snippets. 
+**Problem**: AI is growing at high dynamic space which makes it very hard to keep us upadted with whats happening in the world. This is personalized AI assistant to help keeping upto date with flashcards and short snippets.
 
+**Solution**: To help solve, I created a custom GPT that can provide the latest AI news at one-tap. It has well defined "Magic Prompting Technique" to fine-tune and distill news from most accurate and genuine sources related to user choice of topics.
+
+**Demo**: Just with a tap in suggestion a user can view multiple news as flashcards for easy-view. Just like this: <img width="1597" height="922" alt="image" src="https://github.com/user-attachments/assets/6a1c8003-2208-48f9-b4c0-b333ae983cd0" />
+
+**What did I learn?**: A routine human habit like reading news daily can be simplified using AI. A user can not only choose their own topic of interest and get a refined authenticated news from reputed media houses. I would like you to use "Humming AI" every morning to stay ahead. <https://chatgpt.com/share/68f3f01b-47dc-8009-be81-55587f4d22b5 /> 
