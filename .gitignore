@@ -1,0 +1,46 @@
+# API Keys and Secrets
+.env
+*.env
+config.json
+secrets.json
+
+# API Keys
+*_api_key*
+*_secret*
+credentials.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if using any JS)
+node_modules/
+
+# Python (if using any Python)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Excel temp files
+~$*.xlsx
+
+# Do not commit real data
+*_real_data*
+production_data/
